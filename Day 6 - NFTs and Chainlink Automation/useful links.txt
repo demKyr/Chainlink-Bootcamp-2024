@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=AEvN7UN1T5Y
+
+https://docs.chain.link/chainlink-automation
+https://dev.chain.link/resources/quickstarts
+https://wizard.openzeppelin.com/#erc721
+https://testnets.opensea.io/
+https://automation.chain.link/
